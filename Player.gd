@@ -24,6 +24,7 @@ func _process(delta):
 		
 	if Input.is_action_just_pressed("ui_up") and is_on_floor():
 		velocity.y = -JUMP
+		$jump.play()
 	if not is_on_floor():
 		anim.play("jump")
 		

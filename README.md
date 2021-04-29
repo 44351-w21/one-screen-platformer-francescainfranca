@@ -20,3 +20,7 @@
     - Lose Sound Effect
         - https://opengameart.org/content/8-wet-squish-slurp-impacts
         - Dedicated to Public Domain / Free to use
+    - Jump
+        - https://opengameart.org/content/8-bit-jump-1
+        - Dedicated to Public Domain / Free to use
+        
