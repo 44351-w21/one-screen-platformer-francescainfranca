@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grassHalf_right.png-d3ac9551e780a59513aafbc6ace91ed3.stex"
+path="res://.import/grassHalf_right.png-008e3de5709a124405e2b00d9fedae98.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/platform/grassHalf_right.png"
-dest_files=[ "res://.import/grassHalf_right.png-d3ac9551e780a59513aafbc6ace91ed3.stex" ]
+source_file="res://Assets/Platform/grassHalf_right.png"
+dest_files=[ "res://.import/grassHalf_right.png-008e3de5709a124405e2b00d9fedae98.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grassHill_left.png-967086b5eb9b8a0e3a482c645060570a.stex"
+path="res://.import/grassHill_left.png-5b0ca5a9b581f4f6032ef2b3b040574b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/platform/grassHill_left.png"
-dest_files=[ "res://.import/grassHill_left.png-967086b5eb9b8a0e3a482c645060570a.stex" ]
+source_file="res://Assets/Platform/grassHill_left.png"
+dest_files=[ "res://.import/grassHill_left.png-5b0ca5a9b581f4f6032ef2b3b040574b.stex" ]
 
 [params]
 
